@@ -1,0 +1,31 @@
+/* COLORS: 
+Primary: #B80300. 
+Secondary: #FFFFFF. 
+Accent 1: #E00000. 
+Accent 2: #FF9800. */
+
+h1 {
+    color: #B80300;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Madimi One', sans-serif;
+}
+
+#primary {
+    color: #B80300;
+}
+
+#secondary {
+    color: #FFFFFF;
+    background-color: #B80300;
+}
+
+#accent1{
+    color: #e00000;
+}
+
+#accent2{
+    color: #FF9800;
+}
