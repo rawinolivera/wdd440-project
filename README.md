@@ -12,3 +12,4 @@ Project Members Team 9:
 
 *Design Folder
 Here you can find the wireframes, typography and the color pallet for our project
+https://rawinolivera.github.io/wdd440-project/Design/
