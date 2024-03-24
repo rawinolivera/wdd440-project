@@ -20,6 +20,5 @@ export default function Home() {
       
       <Footer/>
     </>
-    )
+    );
 }
->>>>>>> df3b35bd507f7b459f8cc1f09efcb0dea308b85d
