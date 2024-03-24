@@ -1,8 +1,17 @@
+import React from 'react'
 import Footer from "./components/footer";
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Home',
+};
+
 export default function Home() {
   return (
-    <body>
-      <Footer />
-    </body>
+    <>
+      <div>HomePage</div>
+      
+      <Footer/>
+    </>
   );
-} 
+}
