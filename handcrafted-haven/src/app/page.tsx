@@ -1,11 +1,16 @@
-
-import Header from "./components/header";
+import React from 'react'
 import Footer from "./components/footer";
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Home',
+};
+
 export default function Home() {
   return (
-    <body>
-      <Header />
+    <>
+      <div>HomePage</div>
+      
       <Footer/>
-    </body>
-  );
+    </>
 }
